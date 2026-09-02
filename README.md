@@ -1,16 +1,7 @@
-# 🎯 Saga Pattern Implementation
+# Saga Pattern Implementation
 ## Микросервисная система заказов с реализацией Saga Pattern для управления распределенными транзакциями.
 
-## 🛠️ Технологии
-### - Java 17+, Spring Boot 3
-
-### - PostgreSQL
-
-### - Apache Kafka
-
-### - Docker
-
-## 📦 Микросервисы
+## Сервисы
 
 ## 1. Order Microservice
 ### Создание заказов
